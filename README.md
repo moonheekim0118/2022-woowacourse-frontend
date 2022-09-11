@@ -64,7 +64,11 @@
 <br/>
 
 ### 💙 레벨 3 - 팀 프로젝트
-
+- 과정 목표
+  - 개발 프로세스 기반으로 프로젝트를 진행, 협업하는 경험을 한다.
+- 관련 학습 글
+   - [팀 프로젝트에 리액트 쿼리와 리코일을 도입한 이유](https://observant-aardwolf-5e1.notion.site/5c4d2a93924745eab2ad94e42bdd49ed)
+   - [Github Actions로 빌드/배포 자동화하기](https://moonheekim.netlify.app/dev/githubActions/)
 
 <br/>
 
