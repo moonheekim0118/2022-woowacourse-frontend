@@ -20,8 +20,7 @@
 
   - 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
   - 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
-  - TypeScript의 기본 문법을 익히며 TypeScript의 필요성을 이해한다.
-  - Typescript를 객체지향적으로 활용하는 방법을 고민한다.
+
   
 - 관련 학습 글
   - [git reset 옵션의 종류와 git reset--hard 로 삭제된 커밋 복구하기](https://prolog.techcourse.co.kr/studylogs/1788)
