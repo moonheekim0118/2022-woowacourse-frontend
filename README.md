@@ -23,7 +23,7 @@
   - TypeScript의 기본 문법을 익히며 TypeScript의 필요성을 이해한다.
   - Typescript를 객체지향적으로 활용하는 방법을 고민한다.
   
-- 관련 학습 
+- 관련 학습 글
   - [git reset 옵션의 종류와 git reset--hard 로 삭제된 커밋 복구하기](https://prolog.techcourse.co.kr/studylogs/1788)
   - [requestAnimationFrame()에 대해 알아보기](https://prolog.techcourse.co.kr/studylogs/1801)
   - [웹팩 톺아보기](https://moonheekim.netlify.app/dev/%EC%9B%B9%ED%8C%A9%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0/)
