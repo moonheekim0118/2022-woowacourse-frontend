@@ -76,7 +76,7 @@
 |       프로젝트          |                                   1단계                                    |                                   2단계                                    |                      리뷰 한 PR                     
 | :------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------:
 |         프론트엔드 성능베이스캠프      |     [PR](https://github.com/woowacourse/perf-basecamp/pull/33)      |                                                                            |                       [리뷰 한 PR](https://github.com/woowacourse/perf-basecamp/pull/53)                              |          |
-|     TypeScript   |         |   |          |          |
+|     TypeScript   |   [PR](https://github.com/woowacourse/ts-module/pull/2)      |   |    [리뷰 한 PR](https://github.com/woowacourse/ts-module/pull/10)      |           |
 |     웹접근성   |         |   |          |          |
 
 - 과정 목표
