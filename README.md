@@ -86,7 +86,7 @@
   - 웹접근성 시나리오에 따라 적절한 속성을 추가할 수 있는 역량을 향상해본다.
 - 관련 학습 글
   - [우아한테크코스 레벨4 성능베이스 캠프 학습 내용](https://moonheekim.netlify.app/dev/%EC%84%B1%EB%8A%A5%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%BA%A0%ED%94%84/)
-
+  - [프론트엔드에서 횡단관심사 생각해보기](https://moonheekim.netlify.app/dev/%ED%9A%A1%EB%8B%A8%EA%B4%80%EC%8B%AC%EC%82%AC/)
 <br/>
 
 ### 💙 레벨 5 - 보충 학습, 취업 준비
